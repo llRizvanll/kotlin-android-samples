@@ -1,6 +1,7 @@
 ## Android Kotlin RecyclerView
 
-
+### Step by Step guide 
+ 
 ### 0. Add library
 ```java
 implementation "androidx.recyclerview:recyclerview:1.1.0"
