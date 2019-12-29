@@ -17,3 +17,5 @@ Sample Projects Listed Below :
 ### [4. MVVM]()
 
 ### [5. MVP]()
+
+### [6. Kotlin-RecyclerView](kotlin-recyclerview-sample)
